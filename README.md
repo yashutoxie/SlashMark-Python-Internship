@@ -7,7 +7,7 @@ Welcome to the SlashMark Python Internship repository! This collection features 
 ### 1. [To-Do Application](https://github.com/yashutoxie/SlashMark-Python-Internship/tree/main/Task_1_To-Do-Application)
 A command-line based task manager that allows users to add, delete, and view to-do items efficiently.
 
-### 2. [Guess the Number](https://github.com/yashutoxie/SlashMark-Python-Internship/tree/main/Task_2_GuessNumber)
+### 2. [Guess the Number](https://github.com/yashutoxie/SlashMark-Python-Internship/tree/main/Task_2_GuessNumber%23)
 A number-guessing game where the program provides hints until the user guesses the correct number.
 
 ### 3. [Password Generator](https://github.com/yashutoxie/SlashMark-Python-Internship/tree/main/Task_3_Password_Generator)
